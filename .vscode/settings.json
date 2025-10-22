@@ -1,0 +1,7 @@
+{
+    // Point Pylance to the workspace virtual environment if present
+    "python.analysis.extraPaths": [
+        "./.venv/Lib/site-packages"
+    ],
+    "python.pythonPath": ".venv/Scripts/python"
+}
